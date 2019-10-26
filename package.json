@@ -1,0 +1,11 @@
+{
+  "name": "dual-esm-commonjs-package",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node --experimental-modules index.mjs"
+  },
+  "author": "Geoffrey Booth",
+  "license": "ISC"
+}
